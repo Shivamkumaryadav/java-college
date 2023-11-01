@@ -21,5 +21,6 @@ public class Employee{
         System.out.println("The employee last name is :" + last_name);
         System.out.println("The employee salary is :" + salary);
     
+
     }
 }
